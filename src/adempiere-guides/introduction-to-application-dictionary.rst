@@ -12,7 +12,7 @@
 .. |Comentarios| image:: resources/comentarios.png
 .. |Cambiar Multi/Mono Registro| image:: resources/cambiar-multi-mono-registro.png
 .. |Registros Históricos| image:: resources/registros-historicos.png
-.. |Menú| image:: resources/menu.png
+.. |Menú| image:: resources/icono-menu.png
 .. |Pestaña Anterior| image:: resources/pestana-anterior.png
 .. |Pestaña Próxima| image:: resources/pestana-proxima.png
 .. |Primer Registro| image:: resources/primer-registro.png
