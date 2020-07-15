@@ -17,6 +17,7 @@
 .. |Confirmar Diálogo| image:: resources/confirm-dialogue.png
 .. |Aceptar Términos de la Licencia| image:: resources/accept-license-terms.png
 .. |Mensaje de Configuración Guardada| image:: resources/saved-configuration-message.png
+.. |Logo de ADempiere Cargando| image:: resources/adempiere-logo-loading.png
 .. |Presionar Campo Server| image:: resources/press-field-server.png
 .. |Ventana con Campos Requeridos para Configuración| image:: resources/window-with-fields-required-for-configuration.png
 

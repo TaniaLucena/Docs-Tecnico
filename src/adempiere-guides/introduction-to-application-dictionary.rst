@@ -1,4 +1,34 @@
 .. |Barra de Herramientas de ADempiere| image:: resources/adempiere-toolbar.png
+.. |Ignorar Cambios| image:: resources/ignorar-cambios.png
+.. |Ayuda| image:: resources/ayuda.png
+.. |Registro Nuevo| image:: resources/registro-nuevo.png
+.. |Copiar Registro| image:: resources/copiar-registro.png
+.. |Borrar Registro| image:: resources/borrar-registro.png
+.. |Borrar Artículos Seleccionado| image:: resources/borrar-articulos.png
+.. |Guardar Cambios| image:: resources/guardar-cambios.png
+.. |Refrescar| image:: resources/refrescar.png
+.. |Encontrar Registro| image:: resources/encontrar-registros.png
+.. |Anexo| image:: resources/anexo.png
+.. |Comentarios| image:: resources/comentarios.png
+.. |Cambiar Multi/Mono Registro| image:: resources/cambiar-multi-mono-registro.png
+.. |Registros Históricos| image:: resources/registros-historicos.png
+.. |Menú| image:: resources/menu.png
+.. |Pestaña Anterior| image:: resources/pestana-anterior.png
+.. |Pestaña Próxima| image:: resources/pestana-proxima.png
+.. |Primer Registro| image:: resources/primer-registro.png
+.. |Registro Anterior| image:: resources/registro-anterior.png
+.. |Registro Próximo| image:: resources/registro-proximo.png
+.. |Último Registro| image:: resources/ultimo-registro.png
+.. |Informe| image:: resources/informe.png
+.. |Documentos e Informes Archivados| image:: resources/documentos-informes-archivados.png
+.. |Vista Previa| image:: resources/vista-previa.png
+.. |Imprimir| image:: resources/imprimir.png
+.. |Visualiza Detalle| image:: resources/visualiza-detalle.png
+.. |Flujo de Trabajo Activos| image:: resources/flujo-trabajo-activos.png
+.. |Chequee Solicitudes| image:: resources/chequee-solicitudes.png
+.. |Proceso| image:: resources/proceso.png
+.. |Información de Producto| image:: resources/informacion-producto.png
+.. |Finalizar Ventana| image:: resources/finalizar-ventana.png
 .. |Pestañas en ADempiere| image:: resources/lashes-in-adempiere.png
 .. |Barra de Información de Adempiere| image:: resources/adempiere-s-information-bar.png
 .. |Reservación de Mesas| image:: resources/table-reservation.png
@@ -12,7 +42,7 @@
 .. |Columna| image:: resources/column.png
 .. |Creación de la Tabla RS Table| image:: resources/creating-the-rs-table.png
 .. |Agregar Traducción de la Tabla| image:: resources/add-table-translation.png
-.. |Campos Requeridos de la Pestaña Columna| image:: resources/required-fields-from-column-tab.png
+.. |Campos Requeridos de la Pestaña Columna| image:: resources/column.png
 .. |Registro del Campo Name| image:: resources/record-the-name-field.png
 .. |Botón Sincronizar Columnas| image:: resources/synchronize-columns-button.png
 .. |Cuadro de Diálogo de Creación de Columnas en la Base de Datos| image:: resources/column-creation-dialog-box-in-the-database.png
