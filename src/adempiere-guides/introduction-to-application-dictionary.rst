@@ -12,7 +12,7 @@
 .. |Comentarios| image:: resources/comentarios.png
 .. |Cambiar Multi/Mono Registro| image:: resources/cambiar-multi-mono-registro.png
 .. |Registros Históricos| image:: resources/registros-historicos.png
-.. |Menú| image:: resources/icono-menu.png
+.. |IMenú| image:: resources/icono-menu.png
 .. |Pestaña Anterior| image:: resources/pestana-anterior.png
 .. |Pestaña Próxima| image:: resources/pestana-proxima.png
 .. |Primer Registro| image:: resources/primer-registro.png
@@ -130,7 +130,7 @@ ADempiere cuenta con una barra de herramientas con la que interactúa en la mayo
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
 |13||Registros Históricos|            |Registros Históricos              |Podrá ver un histórico de los registros (Día, Semana, Mes,Año y Todos)  |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|14||Menú|                            |Menú                              |Podrá ver la ventana principal de ADempiere                             |
+|14||IMenú|                           |Menú                              |Podrá ver la ventana principal de ADempiere                             |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
 |15||Pestaña Anterior|                |Pestaña Anterior                  |Podrá ir a la pestaña anterior de la ventana.                           |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
