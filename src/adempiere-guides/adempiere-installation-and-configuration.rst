@@ -23,8 +23,8 @@
 
 .. _documento/instalación-y-configuración-de-adempiere:
 
-**Instalación y Configuración ADempiere**
-=========================================
+**Instalación y Configuración**
+===============================
 
 **Requisitos de Instalación**
 -----------------------------

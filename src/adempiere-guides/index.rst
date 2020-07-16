@@ -6,19 +6,16 @@
 
 La guía práctica de ADempiere contiene los siguientes temas.
 
-- ADempiere
-
+- Sobre ADempiere
 - Requisitos de Instalación
-- Instalación de PostgreSQL
-- Instalación de JDK
-- Instalación de ADempiere Server
-- Instalación de ADempiere
-- Instalación de Eclipse
-- Creando el Entorno de Desarrollo ADempiere
-    - Preparación del entorno
-    - Compilando ADempiere
-
-
+    - Instalación de PostgreSQL
+    - Instalación de JDK
+    - Instalación de ADempiere Server
+    - Instalación de ADempiere
+    - Instalación de Eclipse
+    - Creando el Entorno de Desarrollo ADempiere
+        - Preparación del entorno
+        - Compilando ADempiere
 - Introducción al Diccionario de Aplicación
     - Estructura de las Ventanas
         - Barra de Herramientas
@@ -33,17 +30,16 @@ La guía práctica de ADempiere contiene los siguientes temas.
         - Pestaña
     - Menú
     - Resultados
-
-
 - Personalizando Ventanas
     - Diseño de Columnas
     - Copiar Campos
-        - El Resultado es el Siguiente:
+        - Resultado
     - Lógica Sólo Lectura
-- Reportes
-- Formato de Impresión
+    - Reportes
+    - Formato de Impresión
+
 - Clases Modelo
-    - Antes de Empezar...
+    - Antes de Empezar
     - Generar Clases Modelo
         - Pasos a seguir para generar las Clases Modelo
 
@@ -53,3 +49,4 @@ La guía práctica de ADempiere contiene los siguientes temas.
     adempiere
     adempiere-installation-and-configuration
     introduction-to-application-dictionary
+    customizing-windows

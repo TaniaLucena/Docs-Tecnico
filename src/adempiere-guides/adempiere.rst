@@ -1,7 +1,7 @@
 .. _documento/sobre-adempiere:
 
-**ADempiere**
-=============
+**Sobre ADempiere**
+===================
 
 ADempiere ERP es una sofisticada solución de negocios Open Source actualmente posicionada como una fuerte alternativa a los software propietarios, es decir, a aquellas aplicaciones que son desarrolladas y distribuidas por una organización comercial.
 
