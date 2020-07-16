@@ -28,3 +28,4 @@ Cualquier duda puede visitar nuestra página http://erpya.com/
     adempiere-guides/adempiere
     adempiere-guides/adempiere-installation-and-configuration
     adempiere-guides/introduction-to-application-dictionary
+    adempiere-guides/customizing-windows
