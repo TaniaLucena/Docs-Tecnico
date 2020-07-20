@@ -7,7 +7,8 @@
 La guía práctica de ADempiere contiene los siguientes temas.
 
 - Sobre ADempiere
-- Requisitos de Instalación
+- Instalación y Configuración 
+    - Requisitos de Instalación
     - Instalación de PostgreSQL
     - Instalación de JDK
     - Instalación de ADempiere Server
@@ -37,11 +38,23 @@ La guía práctica de ADempiere contiene los siguientes temas.
     - Lógica Sólo Lectura
     - Reportes
     - Formato de Impresión
-
-- Clases Modelo
-    - Antes de Empezar
-    - Generar Clases Modelo
-        - Pasos a seguir para generar las Clases Modelo
+- Instalar y Configurar Eclipse en GNU/Linux
+    - Instalación de Eclipse
+        - Eclipse Luna
+    - Creando el Entorno de Desarrollo ADempiere
+        - Preparación del entorno
+        - Compilando ADempiere
+    - Clases Modelo
+        - Antes de Empezar
+        - Generar Clases Modelo
+            - Pasos a seguir para generar las Clases Modelo
+            - Conceptualización del MVC en ADempiere
+                - Modelo
+                - Vista
+                - Controlador
+            - Estructura de los directorios
+            - Nomenclatura para Paquetes
+    - Procesos
 
 .. toctree::
     :maxdepth: 2
@@ -50,3 +63,4 @@ La guía práctica de ADempiere contiene los siguientes temas.
     adempiere-installation-and-configuration
     introduction-to-application-dictionary
     customizing-windows
+    install-and-configure-eclipse-in-gnu-linux
