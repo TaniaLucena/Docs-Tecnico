@@ -1,34 +1,33 @@
 .. |Barra de Herramientas de ADempiere| image:: resources/adempiere-toolbar.png
-.. |Ignorar Cambios| image:: resources/ignorar-cambios.png
-.. |Ayuda| image:: resources/ayuda.png
-.. |Registro Nuevo| image:: resources/registro-nuevo.png
-.. |Copiar Registro| image:: resources/copiar-registro.png
-.. |Borrar Registro| image:: resources/borrar-registro.png
-.. |Borrar Artículos Seleccionado| image:: resources/borrar-articulos.png
-.. |Guardar Cambios| image:: resources/guardar-cambios.png
-.. |Refrescar| image:: resources/refrescar.png
-.. |Encontrar Registro| image:: resources/encontrar-registros.png
-.. |Anexo| image:: resources/anexo.png
-.. |Comentarios| image:: resources/comentarios.png
-.. |Cambiar Multi/Mono Registro| image:: resources/cambiar-multi-mono-registro.png
-.. |Registros Históricos| image:: resources/registros-historicos.png
-.. |IMenú| image:: resources/icono-menu.png
-.. |Pestaña Anterior| image:: resources/pestana-anterior.png
-.. |Pestaña Próxima| image:: resources/pestana-proxima.png
-.. |Primer Registro| image:: resources/primer-registro.png
-.. |Registro Anterior| image:: resources/registro-anterior.png
-.. |Registro Próximo| image:: resources/registro-proximo.png
-.. |Último Registro| image:: resources/ultimo-registro.png
-.. |Informe| image:: resources/informe.png
-.. |Documentos e Informes Archivados| image:: resources/documentos-informes-archivados.png
-.. |Vista Previa| image:: resources/vista-previa.png
-.. |Imprimir| image:: resources/imprimir.png
-.. |Visualiza Detalle| image:: resources/visualiza-detalle.png
-.. |Flujo de Trabajo Activos| image:: resources/flujo-trabajo-activos.png
-.. |Chequee Solicitudes| image:: resources/chequee-solicitudes.png
-.. |Proceso| image:: resources/proceso.png
-.. |Información de Producto| image:: resources/informacion-producto.png
-.. |Finalizar Ventana| image:: resources/finalizar-ventana.png
+.. |Ignorar Cambios| image:: resources/ignore-changes.png
+.. |Ayuda| image:: resources/help.png
+.. |Registro Nuevo| image:: resources/new-record.png
+.. |Copiar Registro| image:: resources/copy-record.png
+.. |Borrar Registro| image:: resources/delete-record.png
+.. |Borrar Artículos Seleccionado| image:: resources/delete-articles.png
+.. |Guardar Cambios| image:: resources/save-changes.png
+.. |Refrescar| image:: resources/refresh.png
+.. |Encontrar Registro| image:: resources/find-record.png
+.. |Anexo| image:: resources/annexed.png
+.. |Comentarios| image:: resources/commentary.png
+.. |Cambiar Multi/Mono Registro| image:: resources/change-mono-multi.png
+.. |Registros Históricos| image:: resources/historical-records.png
+.. |Pestaña Anterior| image:: resources/parent-records.png
+.. |Pestaña Próxima| image:: resources/detailed-records.png
+.. |Primer Registro| image:: resources/first-register.png
+.. |Registro Anterior| image:: resources/previous-record.png
+.. |Registro Próximo| image:: resources/next-registration.png
+.. |Último Registro| image:: resources/last-record.png
+.. |Informe| image:: resources/report.png
+.. |Documentos e Informes Archivados| image:: resources/documents-and-reports.png
+.. |Imprimir| image:: resources/to-print.png
+.. |Bloquea Registro| image:: resources/block-private-registration.png
+.. |Visualiza Detalle| image:: resources/visualize-detail.png
+.. |Flujo de Trabajo Activos| image:: resources/workflows.png
+.. |Chequee Solicitudes| image:: resources/check-requests.png
+.. |Proceso| image:: resources/process.png
+.. |Información de Producto| image:: resources/product-information.png
+.. |Entrada Rápida| image:: resources/quick-entry.png
 .. |Pestañas en ADempiere| image:: resources/lashes-in-adempiere.png
 .. |Barra de Información de Adempiere| image:: resources/adempiere-s-information-bar.png
 .. |Reservación de Mesas| image:: resources/table-reservation.png
@@ -40,6 +39,7 @@
 .. |Tabla y Columna| image:: resources/table-and-column.png
 .. |Tabla| image:: resources/table.png
 .. |Columna| image:: resources/column.png
+.. |Botón Nuevo Registro| image:: resources/new-record-button.png
 .. |Creación de la Tabla RS Table| image:: resources/creating-the-rs-table.png
 .. |Agregar Traducción de la Tabla| image:: resources/add-table-translation.png
 .. |Campos Requeridos de la Pestaña Columna| image:: resources/column.png
@@ -130,39 +130,37 @@ ADempiere cuenta con una barra de herramientas con la que interactúa en la mayo
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
 |13||Registros Históricos|            |Registros Históricos              |Podrá ver un histórico de los registros (Día, Semana, Mes,Año y Todos)  |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|14||IMenú|                           |Menú                              |Podrá ver la ventana principal de ADempiere                             |
+|14||Pestaña Anterior|                |Pestaña Anterior                  |Podrá ir a la pestaña anterior de la ventana.                           |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|15||Pestaña Anterior|                |Pestaña Anterior                  |Podrá ir a la pestaña anterior de la ventana.                           |
+|15||Pestaña Próxima|                 |Pestaña Próxima                   |Podrá ir a la próxima pestaña de la ventana.                            |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|16||Pestaña Próxima|                 |Pestaña Próxima                   |Podrá ir a la próxima pestaña de la ventana.                            |
+|16||Primer Registro|                 |Primer Registro                   |Podrá ir al primer registro de todos.                                   |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|17||Primer Registro|                 |Primer Registro                   |Podrá ir al primer registro de todos.                                   |
+|17||Registro Anterior|               |Registro Anterior                 |Podrá ir al registro anterior de los registros.                         |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|18||Registro Anterior|               |Registro Anterior                 |Podrá ir al registro anterior de los registros.                         |
+|18||Registro Próximo|                |Registro Próximo                  |Podrá ir al registro próximo de los registros.                          |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|19||Registro Próximo|                |Registro Próximo                  |Podrá ir al registro próximo de los registros.                          |
+|19||Último Registro|                 |Último Registro                   |Podrá ir al último registro de todos.                                   |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|20||Último Registro|                 |Último Registro                   |Podrá ir al último registro de todos.                                   |
+|20||Informe|                         |Informe                           |Crear un informe fácil de todos los registros existentes.               |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|21||Informe|                         |Informe                           |Crear un informe fácil de todos los registros existentes.               |
+|21||Documentos e Informes Archivados||Documentos e Informes Archivados  |Archivar y Guardar los informes creados.                                |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|22||Documentos e Informes Archivados||Documentos e Informes Archivados  |Archivar y Guardar los informes creados.                                |
+|22||Imprimir|                        |Imprimir                          |Imprimir                                                                |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|23||Vista Previa|                    |Vista Previa                      |Previsualizar el documento                                              |
+|23||Bloquea Registro|                |Bloquea Registro                  |Permite bloquear el registro.                                           |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|24||Imprimir|                        |Imprimir                          |Imprimir                                                                |
+|24||Visualiza Detalle|               |Visualiza Detalle(Donde es Usado) |Podrá ir a los registros en los que esté referenciado este registro.    |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|25||Visualiza Detalle|               |Visualiza Detalle(Donde es Usado) |Podrá ir a los registros en los que esté referenciado este registro.    |
+|25||Flujo de Trabajo Activos|        |Flujo de Trabajo Activos          |Podrá ver actividades o procesos pendiente.                             |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|26||Flujo de Trabajo Activos|        |Flujo de Trabajo Activos          |Podrá ver actividades o procesos pendiente.                             |
+|26||Chequee Solicitudes|             |Chequee Solicitudes               |Solicitudes de Contactos.                                               |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|27||Chequee Solicitudes|             |Chequee Solicitudes               |Solicitudes de Contactos.                                               |
+|27||Proceso|                         |Proceso                           |Genera un proceso asociado.                                             |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|28||Proceso|                         |Proceso                           |Genera un proceso asociado.                                             |
+|28||Información de Producto|         |Información de Producto           |Podrá acceder a una consulta de producto.                               |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|29||Información de Producto|         |Información de Producto           |Podrá acceder a una consulta de producto.                               |
-+--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
-|30||Finalizar Ventana|               |Finalizar Ventana                 |Cierra la Ventana                                                       |
+|29||Entrada Rápida|                  |Entrada Rápida                    |Permite crear un registro en la ventana de forma rápida.                |
 +--+----------------------------------+----------------------------------+------------------------------------------------------------------------+
 
 **Pestañas**
